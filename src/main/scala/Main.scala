@@ -47,7 +47,7 @@ object Main {
     println("=== Preuzimanje fajlova iz foldera ===")
 
     // Folder ID
-    val folderId = "1twb1vchgOMXRtQ-3yCbaRhzuJq-ZTQBL"
+    val folderId = "***"
 
     // Rekurzivno preuzimanje fajlova
     downloadFolderContents(driveService, folderId)
