@@ -1,0 +1,18 @@
+# Build i meta fajlovi
+target/
+project/target/
+project/project/
+
+# Google autentikacija i tokeni
+tokens/
+driveApi.json
+
+# Privremeni folderi sa fajlovima
+Folder 1/
+Folder 2/
+Folder 3/
+
+# Editor fajlovi i OS junk
+.vscode/
+.DS_Store
+Thumbs.db
